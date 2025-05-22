@@ -1,0 +1,19 @@
+# Gerenciador de Tarefas para Estudantes
+
+Este é um projeto simples de um gerenciador de tarefas feito com HTML, CSS e JavaScript. Ele permite que estudantes adicionem e removam tarefas do dia a dia de forma prática.
+
+## 🚀 Funcionalidades
+
+- Adicionar tarefas
+- Remover tarefas
+- Interface simples e intuitiva
+
+## 💻 Tecnologias usadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📦 Como rodar
+
+1. Baixe o projeto ou clone:
